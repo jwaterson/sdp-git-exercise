@@ -55,5 +55,4 @@ git merge bug-fix<br>
 echo Thirteenth bit of work executed in master branch >> commitMe.txt<br>
 git add .<br>
 git commit -m "Commit 13"<br>
-echo Fourteenth bit of work executed in master branch >> commitMe.txt<br>
 git add SimpleCommitGraph.png UnabridgedCommitGraph.png FILE.md<br>
