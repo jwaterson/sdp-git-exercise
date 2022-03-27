@@ -2,4 +2,6 @@
 First bit of work executed in master branch 
 Second bit of work executed in master branch 
 Third bit of work executed in bug-fix branch 
-Fourth bit of work executed in bug-fix branch 
+Fourth bit of work executed in bug-fix branch
+Fifth bit of work executed in bug-fix branch 
+Sixth  bit of work executed in bug-fix branch 
